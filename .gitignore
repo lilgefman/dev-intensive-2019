@@ -1,14 +1,11 @@
+#socks8
+
 # Gradle files
 .gradle/
 
-# User-specific configurations
-*.iml
-
-# OS-specific files
-.DS_Store
-.DS_Store?
-._*
+@@ -11,4 +13,4 @@
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+Thumbs.db
 Thumbs.db
